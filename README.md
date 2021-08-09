@@ -22,7 +22,7 @@
 |   Fr. Nov,   5   |                  |                  |               |
 |   Fr. Nov,  12   |                  |                  |               |
 |   Fr. Nov,  19   |                  |                  |               |
-|   Fr. Nov,  26   |                  |                  |               |
+|   Fr. Nov,  26   |     Thanksgiving break, No meeting                  |
 |   Fr. Nov,   5   |                  |                  |               | 
 |  Fr. Dec,    3   |                  |                  |               |
 |  Fr. Dec,   10   |                  |                  |               |
