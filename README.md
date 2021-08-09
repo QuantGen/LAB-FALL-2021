@@ -28,3 +28,6 @@
 |  Fr. Dec,   10   |                  |                  |               |
 
 
+## Add here publications you whish to present or whish someone presents
+ - 
+ - [An old list](https://github.com/QuantGen/lab-fall-2020#publications-that-may-be-of-interest) (If you chose from here, check the paper was not presented already)
