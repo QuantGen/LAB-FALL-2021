@@ -27,6 +27,13 @@
 |  Fr. Dec,    3   |                  |                  |               |
 |  Fr. Dec,   10   |                  |                  |               |
 
+## Other seminars/meetings at MSU
+
+ - [EPI-Biostat Seminars](https://www.epi.msu.edu/deptinformation/seminars/)
+ - [IQ-Seminar](https://iq.msu.edu/upcoming-events/) 
+ - [Science at the Edge](https://bmb.natsci.msu.edu/research/seminars/science-at-the-edge-fall-2021-seminar-series/ ) Fridays at noon
+ - [Statistics Colloquium](https://stt.natsci.msu.edu/events/archived-colloquia/)
+
 
 ## Add here publications you whish to present or whish someone presents
  - 
