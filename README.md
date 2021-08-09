@@ -11,12 +11,12 @@
 | Date             | Presenter(s)     |  Topic(s)        |  Materials    |
 | ---------------  | ---------------- | ---------------- | ------------- |
 |   Fr. Sept, 3    |                  |                  |               |
-|   Fr. Sept, 1    |                  |                  |               |
+|   Fr. Sept, 10   |                  |                  |               |
 |   Fr. Sept, 17   |                  |                  |               |
 |   Fr. Sept, 24   |                  |                  |               |
 |   Fr. Oct,  1    |                  |                  |               |
 |   Fr. Oct,  8    |                  |                  |               |
-|   Fr. Oct,  15   |                  |                  |               |
+|   Fr. Oct,  15   |      Alexa       |       TBD        |               |
 |   Fr. Oct,  22   |                  |                  |               |
 |   Fr. Oct,  29   |                  |                  |               |
 |   Fr. Nov,   5   |                  |                  |               |
@@ -35,6 +35,6 @@
  - [Statistics Colloquium](https://stt.natsci.msu.edu/events/archived-colloquia/)
 
 
-## Add here publications you whish to present or whish someone presents
+## Add here publications you wish to present or wish someone presents
  - 
  - [An old list](https://github.com/QuantGen/lab-fall-2020#publications-that-may-be-of-interest) (If you chose from here, check the paper was not presented already)
