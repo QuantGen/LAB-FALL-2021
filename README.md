@@ -1,5 +1,3 @@
-# LAB-FALL-2021
-
 # Lab Meetings QuantGen Group Fall 2021
 
 ## Where? Zoom (will be distributed)
