@@ -19,7 +19,7 @@
 |   Fr. Oct,  15   |      Alexa       |       TBD        |               |
 |   Fr. Oct,  22   |                  |                  |               |
 |   Fr. Oct,  29   |                  |                  |               |
-|   Fr. Nov,   5   |                  |                  |               |
+|   Fr. Nov,   5   | Alex             | TBD              |               |
 |   Fr. Nov,  12   |                  |                  |               |
 |   Fr. Nov,  19   |                  |                  |               |
 |   Fr. Nov,  26   |     Thanksgiving break, No meeting                  |
