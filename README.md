@@ -15,7 +15,7 @@
 |   Fr. Oct,  1    |                  |                  |               |
 |   Fr. Oct,  8    |  Scott Funkhouser| DNANexus         |               |
 |   Fr. Oct,  15   |      Alexa       |       TBD        |               |
-|   Fr. Oct,  22   |                  |                  |               |
+|   Fr. Oct,  22   |      Harold      |       TBD        |               |
 |   Fr. Oct,  29   |                  |                  |               |
 |   Fr. Nov,   5   | Alex             | TBD              |               |
 |   Fr. Nov,  12   |                  |                  |               |
