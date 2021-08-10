@@ -13,7 +13,7 @@
 |   Fr. Sept, 17   |                  |                  |               |
 |   Fr. Sept, 24   |                  |                  |               |
 |   Fr. Oct,  1    |                  |                  |               |
-|   Fr. Oct,  8    |                  |                  |               |
+|   Fr. Oct,  8    |  Scott Funkhouser| DNANexus         |               |
 |   Fr. Oct,  15   |      Alexa       |       TBD        |               |
 |   Fr. Oct,  22   |                  |                  |               |
 |   Fr. Oct,  29   |                  |                  |               |
