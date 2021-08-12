@@ -33,7 +33,7 @@
  - [Statistics Colloquium](https://stt.natsci.msu.edu/events/archived-colloquia/)
 
 
-## Add here publications you wish to present or wish someone presents
+## Add here publications you wish to present or you wishes someone presents
 
 
  - [A few papers on the Omnigenic model](#omnigenic) 
