@@ -18,7 +18,7 @@
 |   Fr. Oct,  22   |      Harold      |       TBD        |               |
 |   Fr. Oct,  29   |      Guanqi      |       TBD        |               |
 |   Fr. Nov,   5   | Alex             | TBD              |               |
-|   Fr. Nov,  12   |                  |                  |               |
+|   Fr. Nov,  12   |   Marco          |   TBD            |               |
 |   Fr. Nov,  19   |                  |                  |               |
 |   Fr. Nov,  26   |     Thanksgiving break, No meeting                  |
 |   Fr. Nov,   5   |                  |                  |               | 
