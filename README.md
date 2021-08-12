@@ -36,6 +36,7 @@
 ## Add here publications you wish to present or you wishes someone presents
 
 
+
  - [A few papers on the Omnigenic model](#omnigenic) 
  (Perhaps we can have a sequence of 2 or 3 labs discussing this topic)
     + [From Polygenic to Omnigenic](https://www.cell.com/cell/fulltext/S0092-8674(17)30629-3?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867417306293%3Fshowall%3Dtrue)
@@ -44,4 +45,6 @@
 
 - [Assortative Mating biases Marker-based heritability estimates](https://www.biorxiv.org/content/10.1101/2021.03.18.436091v1)
 
- - [An old list](https://github.com/QuantGen/lab-fall-2020#publications-that-may-be-of-interest) (If you chose from here, check the paper was not presented already)
+- [Auto Encoding Variational Bayes](https://arxiv.org/abs/1312.6114)
+
+- [An old list](https://github.com/QuantGen/lab-fall-2020#publications-that-may-be-of-interest) (If you chose from here, check the paper was not presented already)
