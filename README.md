@@ -12,7 +12,7 @@
 |   Fr. Sept, 10   |                  |                  |               |
 |   Fr. Sept, 17   |                  |                  |               |
 |   Fr. Sept, 24   |                  |                  |               |
-|   Fr. Oct,  1    |                  |                  |               |
+|   Fr. Oct,  1    |   Agustin Gonzalez               |      Poligenic to Omnigenic            |               |
 |   Fr. Oct,  8    |  Scott Funkhouser| DNANexus         |               |
 |   Fr. Oct,  15   |      Alexa       |       TBD        |               |
 |   Fr. Oct,  22   |      Harold      |       TBD        |               |
