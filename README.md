@@ -34,10 +34,12 @@
 
 
 ## Add here publications you wish to present or wish someone presents
+
+[just](#like-this-one)
  - **A few papers on the Omnigenic model** (perhaps we can have a sequence of 2 or 3 labs discussing this)
     + [From Polygenic to Omnigenic](https://www.cell.com/cell/fulltext/S0092-8674(17)30629-3?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867417306293%3Fshowall%3Dtrue)
     + [Testing the implications of the Omnigenic model for GWAS-hits](https://www.cell.com/current-biology/pdf/S0960-9822(20)31873-X.pdf)
-    + [Common Disease Is More Complex Than Implied by the Core Gene Omnigenic Model] https://pubmed.ncbi.nlm.nih.gov/29906445/)
+    + [Common Disease Is More Complex Than Implied by the Core Gene Omnigenic Model](https://pubmed.ncbi.nlm.nih.gov/29906445/)
 
 
  - [An old list](https://github.com/QuantGen/lab-fall-2020#publications-that-may-be-of-interest) (If you chose from here, check the paper was not presented already)
