@@ -41,6 +41,7 @@
  (Perhaps we can have a sequence of 2 or 3 labs discussing this topic)
     + [From Polygenic to Omnigenic](https://www.cell.com/cell/fulltext/S0092-8674(17)30629-3?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867417306293%3Fshowall%3Dtrue)
     + [Testing the implications of the Omnigenic model for GWAS-hits](https://www.cell.com/current-biology/pdf/S0960-9822(20)31873-X.pdf)
+    + [GWAS of three molecular traits highlights core genes and pathways alongside a highly polygenic background](https://elifesciences.org/articles/58615)
     + [Common Disease Is More Complex Than Implied by the Core Gene Omnigenic Model](https://pubmed.ncbi.nlm.nih.gov/29906445/)
 
 - [Assortative Mating biases Marker-based heritability estimates](https://www.biorxiv.org/content/10.1101/2021.03.18.436091v1)
