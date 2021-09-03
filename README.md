@@ -15,7 +15,7 @@
 |   Fr. Oct,  1  | Hugo & Harold                | Applications of multi-resolution inference to metabolomic problems                 |               |
 |   Fr. Oct,  8    |  Scott Funkhouser| DNANexus         |               |
 |   Fr. Oct,  15   |      Alexa       |       TBD        |               |
-|   Fr. Oct,  22   |      Harold      |       TBD        |               |
+|   Fr. Oct,  22   |                  |                  |               |
 |   Fr. Oct,  29   |      Guanqi      |       TBD        |               |
 |   Fr. Nov,   5   | Alex             | TBD              |               |
 |   Fr. Nov,  12   |   Marco          |   TBD            |               |
