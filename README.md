@@ -11,7 +11,7 @@
 |   Fr. Sept, 3    |    No meeting              |                  |               |
 |   Fr. Sept, 3    |    No meeting              |                  |               |
 |   Fr. Sept, 17   | Gustavo                 |   Multi-resolution inference, concept and potential applications            |               |
-|   Fr. Sept, 24   | Anirban                 | Power and error control in multi-resoultion inference                 |               |
+|   Fr. Sept, 24   | Anirban                 | Power and error control in multi-resolution inference                 |               |
 |   Fr. Oct,  1  | Hugo & Harold                | Applications of multi-resolution inference to metabolomic problems                 |               |
 |   Fr. Oct,  8    |  Scott Funkhouser| DNANexus         |               |
 |   Fr. Oct,  15   |      Alexa       |       TBD        |               |
