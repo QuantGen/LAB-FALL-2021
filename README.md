@@ -8,18 +8,18 @@
 
 | Date             | Presenter(s)     |  Topic(s)        |  Materials    |
 | ---------------  | ---------------- | ---------------- | ------------- |
-|   Fr. Sept, 3    |                  |                  |               |
-|   Fr. Sept, 10   |                  |                  |               |
-|   Fr. Sept, 17   |                  |                  |               |
-|   Fr. Sept, 24   |                  |                  |               |
-|   Fr. Oct,  1    |                 |                  |               |
+|   Fr. Sept, 3    |    No meeting              |                  |               |
+|   Fr. Sept, 3    |    No meeting              |                  |               |
+|   Fr. Sept, 17   | Gustavo                 |   Multi-resolution inference, concept and potential applications            |               |
+|   Fr. Sept, 24   | Anirban                 | Power and error control in multi-resoultion inference                 |               |
+|   Fr. Oct,  1  | Hugo & Harold                | Applications of multi-resolution inference to metabolomic problems                 |               |
 |   Fr. Oct,  8    |  Scott Funkhouser| DNANexus         |               |
 |   Fr. Oct,  15   |      Alexa       |       TBD        |               |
 |   Fr. Oct,  22   |      Harold      |       TBD        |               |
 |   Fr. Oct,  29   |      Guanqi      |       TBD        |               |
 |   Fr. Nov,   5   | Alex             | TBD              |               |
 |   Fr. Nov,  12   |   Marco          |   TBD            |               |
-|   Fr. Nov,  19   | Anirban          |   TBD            |               |
+|   Fr. Nov,  19   |         |           |               |
 |   Fr. Nov,  26   |     Thanksgiving break, No meeting                  |
 |   Fr. Nov,   5   |                  |                  |               | 
 |  Fr. Dec,    3   |                  |                  |               |
