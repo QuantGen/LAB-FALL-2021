@@ -12,8 +12,8 @@
 |   Fr. Sept, 24   | Anirban                 | Power and error control in multi-resolution inference                 |               |
 |   Fr. Oct,  1  | Hugo & Harold                | Applications of multi-resolution inference to metabolomic problems                 |               |
 |   Fr. Oct,  8    |  Scott Funkhouser| DNANexus         |               |
-|   Fr. Oct,  15   |      Alexa       |       TBD        |               |
-|   Fr. Oct,  22   |                  |                  |               |
+|   Fr. Oct,  15   |      Kyle       |       Overview of Health Disparities in PRS        |        https://www.nature.com/articles/s41588-019-0379-x.pdf       |
+|   Fr. Oct,  22   |      Alexa          |  Assessing genetic risk of quantitative traits in minority populations       |        https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5544393/pdf/main.pdf       |
 |   Fr. Oct,  29   |      Guanqi      |       TBD        |               |
 |   Fr. Nov,   5   | Alex             | TBD              |               |
 |   Fr. Nov,  12   |   Marco          |   TBD            |               |
