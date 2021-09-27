@@ -13,8 +13,8 @@
 |   Fr. Oct,  1  | Hugo & Harold                | Applications of multi-resolution inference to metabolomic problems                 |               |
 |   Fr. Oct,  8    |  Scott Funkhouser| DNANexus         |               |
 |   Fr. Oct,  15   |      Kyle       |       Overview of Health Disparities in PRS        |        https://www.nature.com/articles/s41588-019-0379-x.pdf       |
-|   Fr. Oct,  22   |      Alexa          |  Assessing genetic risk of quantitative traits in minority populations       |        https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5544393/pdf/main.pdf       |
-|   Fr. Oct,  29   |      Guanqi      |       TBD        |               |
+|   Fr. Oct,  22   |      Guanqi      |       Modeling Heterogeneity in the Genetic Architecture of Ethnically Diverse Groups        |  https://www.genetics.org/content/211/4/1395             |
+|   Fr. Oct,  29   |      Alexa          |  Assessing genetic risk of quantitative traits in minority populations       |        https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5544393/pdf/main.pdf       |
 |   Fr. Nov,   5   | Alex             | TBD              |               |
 |   Fr. Nov,  12   |   Marco          |   TBD            |               |
 |   Fr. Nov,  19   |         |           |               |
