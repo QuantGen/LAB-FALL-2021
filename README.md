@@ -15,7 +15,7 @@
 |   Fr. Oct,  15   |      Kyle       |       Overview of Health Disparities in PRS        |        https://www.nature.com/articles/s41588-019-0379-x.pdf       |
 |   Fr. Oct,  22   |      Guanqi      |       Modeling Heterogeneity in the Genetic Architecture of Ethnically Diverse Groups        |  https://www.genetics.org/content/211/4/1395             |
 |   Fr. Oct,  29   |      Alexa          |  Assessing genetic risk of quantitative traits in minority populations       |        https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5544393/pdf/main.pdf       |
-|   Fr. Nov,   5   | Alex             | TBD              |               |
+|   Fr. Nov,   5   |   Alex   |   Genotype Imputation   |  |
 |   Fr. Nov,  12   |   Marco          |   TBD            |               |
 |   Fr. Nov,  19   |         |           |               |
 |   Fr. Nov,  26   |     Thanksgiving break, No meeting                  |
