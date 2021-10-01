@@ -19,7 +19,6 @@
 |   Fr. Nov,  12   |   Marco          |   TBD            |               |
 |   Fr. Nov,  19   |         |           |               |
 |   Fr. Nov,  26   |     Thanksgiving break, No meeting                  |
-|   Fr. Nov,   5   |                  |                  |               | 
 |  Fr. Dec,    3   |                  |                  |               |
 |  Fr. Dec,   10   |                  |                  |               |
 
