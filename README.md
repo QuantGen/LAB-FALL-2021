@@ -16,8 +16,9 @@
 |   Fr. Oct,  22   |      Guanqi      |       Modeling Heterogeneity in the Genetic Architecture of Ethnically Diverse Groups        |  https://www.genetics.org/content/211/4/1395             |
 |   Fr. Oct,  29   |      Alexa          |  Assessing genetic risk of quantitative traits in minority populations       |        https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5544393/pdf/main.pdf       |
 |   Fr. Nov,   5   |   Alex   |   Genotype Imputation   |  |
-|   Fr. Nov,  12   | Harold Wu &            |    Omnigenic-I           |    [From Polygenic to Omnigenic](https://www.cell.com/cell/fulltext/S0092-8674(17)30629-3?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867417306293%3Fshowall%3Dtrue)  /  [What if (almost) every gene affects everything](https://www.theatlantic.com/science/archive/2017/06/its-like-all-connected-man/530532/)           |
-|   Fr. Nov,  19   |  TBA        |    Omnigenic-II       |    Testing the implications of the Omnigenic model for GWAS-hits](https://www.cell.com/current-biology/pdf/S0960-9822(20)31873-X.pdf) /    [Common Disease Is More Complex Than Implied by the Core Gene Omnigenic Model](https://pubmed.ncbi.nlm.nih.gov/29906445/)         |
+|   Fr. Nov,  12   | Harold Wu &            |    Omnigenic-I           |  - [From Polygenic to Omnigenic](https://www.cell.com/cell/fulltext/S0092-8674(17)30629-3?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867417306293%3Fshowall%3Dtrue)
+  - [What if (almost) every gene affects everything](https://www.theatlantic.com/science/archive/2017/06/its-like-all-connected-man/530532/)           |
+|   Fr. Nov,  19   |  TBA        |    Omnigenic-II       |    [Testing the implications of the Omnigenic model for GWAS-hits](https://www.cell.com/current-biology/pdf/S0960-9822(20)31873-X.pdf) /    [Common Disease Is More Complex Than Implied by the Core Gene Omnigenic Model](https://pubmed.ncbi.nlm.nih.gov/29906445)         |
 |   Fr. Nov,  26   |     Thanksgiving break, No meeting                  |
 |  Fr. Dec,    3   |       Marco            |    TBD              |               |
 |  Fr. Dec,   10   |                  |                  |               |
