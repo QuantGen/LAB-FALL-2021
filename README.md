@@ -13,7 +13,7 @@
 |   Fr. Oct,  1  | Harold                | Applications of multi-resolution inference to metabolomic problems                 |               |
 |   Fr. Oct,  8    |  Scott Funkhouser| DNANexus         |               |
 |   Fr. Oct,  15   |      Kyle       |       Overview of Health Disparities in PRS        |        https://www.nature.com/articles/s41588-019-0379-x.pdf       |
-|   Fr. Oct,  22   |      Guanqi      |       Modeling Heterogeneity in the Genetic Architecture of Ethnically Diverse Groups        |  https://www.genetics.org/content/211/4/1395             |
+|   Fr. Oct,  22 start at 11:30  |      Guanqi      |       Modeling Heterogeneity in the Genetic Architecture of Ethnically Diverse Groups        |  https://www.genetics.org/content/211/4/1395             |
 |   Fr. Oct,  29   |      Alexa          |  Assessing genetic risk of quantitative traits in minority populations       |        https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5544393/pdf/main.pdf       |
 |   Fr. Nov,   5   |   Alex   |   Genotype Imputation   |  |
 |   Fr. Nov,  12   | Harold Wu &  Fei Zhang         |    Omnigenic-I           |  [From Polygenic to Omnigenic](https://www.cell.com/cell/fulltext/S0092-8674(17)30629-3?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867417306293%3Fshowall%3Dtrue)   +[What if (almost) every gene affects everything](https://www.theatlantic.com/science/archive/2017/06/its-like-all-connected-man/530532/) + [GWAS of three molecular traits highlights core genes and pathways alongside a highly polygenic background](https://elifesciences.org/articles/58615)      |
