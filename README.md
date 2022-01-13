@@ -20,7 +20,7 @@
 |   Fr. Nov,  19   |  Rodrigo Savegnago & TBA     |    Omnigenic-II       |    [Testing the implications of the Omnigenic model for GWAS-hits](https://www.cell.com/current-biology/pdf/S0960-9822(20)31873-X.pdf) (+) [Common Disease Is More Complex Than Implied by the Core Gene Omnigenic Model](https://pubmed.ncbi.nlm.nih.gov/29906445)         |
 |   Fr. Nov,  26   |     Thanksgiving break, No meeting                  |
 |  Fr. Dec,    3   |       Marco            |    TBD              |               |
-|  Fr. Dec,   10   |   Alex   |   Genotype Imputation   |               |
+|  Fr. Dec,   10   |   Alex   |   Genotype Imputation   | [Slides](https://slides.agrueneberg.info/2021-12-10/imputation.html) |
 
 ## Other seminars/meetings at MSU
 
